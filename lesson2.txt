@@ -1,0 +1,1 @@
+When we create a git repository we create a folder within the target directory that will allow us to record all changes made to the files whithin. It does NOT create an initial record from the outset. 
