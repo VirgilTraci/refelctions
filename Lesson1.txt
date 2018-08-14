@@ -11,4 +11,4 @@ through the terminal command line.
 
 feeling more comfortable using git in the terminal - who knew this would be fun. 
 
-I have completed the first lesson - role on all of the others. 
+I have completed the first lesson - roll on all of the others. 
