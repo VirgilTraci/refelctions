@@ -1,0 +1,14 @@
+comparing two files using the command line was fun - i had not, so far, used the command line for much more that copy and paste 
+functions so it was nice to know what I was doing with it for a change. 
+
+A history function would be AMAZING!!
+
+I have often thought the saving/committing to changes in your code is a tricky situation, especially when you code is not fully 
+functional - it would be like fire-fighting every time you open your code. 
+
+using git is far more basic than I originally thought. Its quite nice. I certainly didn't think that I would be accessing git 
+through the terminal command line.
+
+feeling more comfortable using git in the terminal - who knew this would be fun. 
+
+I have completed the first lesson - role on all of the others. 
