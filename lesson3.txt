@@ -1,1 +1,4 @@
 Learnt how to develope my own branch of a the asteroids game. This function will come in very handy when developing ideas that are not quite ready to be confirmed as a real fucntion of the game or application. I have this ideas a lot so it will be great to know i can continue to progress the these ideas on the safety of git version control. 
+
+a diagram of the git structure may help you remember what branches contain what information and when it ma make sense to merge branches back within a master head file
+
