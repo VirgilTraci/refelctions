@@ -2,3 +2,4 @@ Learnt how to develope my own branch of a the asteroids game. This function will
 
 a diagram of the git structure may help you remember what branches contain what information and when it ma make sense to merge branches back within a master head file
 
+i didn't actually merge docs but hey - I did remember where this file was so thats a big brucey bonus in my book. Trying to get my head back in the game regarding codeing and this lesson. 
