@@ -1,0 +1,3 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+I would say that timing is everything. A developer choosing when to commit changes (when it is a logical time (when the program is fucntioning properly) and when you have reached the end of a specific task)
